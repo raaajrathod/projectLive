@@ -69,6 +69,23 @@
                 "Javascript",
                 "Css"
             ]
+        },
+        {
+            "discord-name": "raaajrathod#3014",
+            "desired-role": "Frontend Dev",
+            "skills": [
+                "React",
+                "Redux",
+                "Express",
+                "Node",
+                "MongoDB (Beginner)",
+                "Javascript",
+                "Css",
+                "HTML",
+                "SASS",
+                "EJS",
+                "Jquery"
+            ]
         }
     ]
 }
